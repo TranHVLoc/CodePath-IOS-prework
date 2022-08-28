@@ -4,7 +4,7 @@
 Build a simple IOS app that can custom label name, change the text color, and the background color
 
 ### App Walk-though
-<img src="https://recordit.co/45w1vFnoVq" width=200><br>
+<img src="http://g.recordit.co/45w1vFnoVq.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
